@@ -48,17 +48,19 @@ namespace ConsoleApp
             }
         }
         /// <summary>
-        /// gets a random college and city using the Random class.
+        /// gets a random college and city using the Random class. Uses the dictionary key/value pairs instead of a list. 
         /// </summary>
         private static void GetRandomCollegeCity()
         {
             Random rand = new Random();
+            //instead of a list, i used the ElementAt method on the dictionary to find the element at the random integer generated
             var randDictEntry = collegeCityDict.ElementAt(rand.Next(0, collegeCityDict.Count));
+            //I access the key and value with dot notation from the random element.
             Console.WriteLine($"Random college and city: {randDictEntry.Key},{randDictEntry.Value}");
         }
 
         /// <summary>
-        /// 
+        /// searches the keys (colleges)  in the dictionary and if there is a match it returns the value ( city).
         /// </summary>
         /// <param name="userinput"></param>
         /// <param name="city"></param>
