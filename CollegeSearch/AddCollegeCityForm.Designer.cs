@@ -92,6 +92,7 @@ namespace CollegeSearch
             // 
             // AddCollegeCityForm
             // 
+            this.AcceptButton = this.BtnSave;
             this.AutoScaleDimensions = new System.Drawing.SizeF(15F, 38F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
