@@ -8,3 +8,10 @@ MIT,Cambridge
 Harvard University,Cambridge
 University of Denver,Denver
 Test,Test
+Arizona State University,Tempe
+University of Alaska Fairbanks,Fairbanks
+Norther Arizona University,Flagstaff
+Troy University,Troy
+Auburn University,Auburn
+University of North Alabama,Florence
+Tuskegee University,Tuskegee
