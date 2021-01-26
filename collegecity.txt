@@ -1,0 +1,9 @@
+Utah Valley University,Orem
+Brigham Young University,Provo
+The University of Utah,Salt Lake City
+Stanford University,Stanford
+Dixie State University,St. George
+Utah State University,Logan
+MIT,Cambridge
+Harvard University,Cambridge
+University of Denver,Denver

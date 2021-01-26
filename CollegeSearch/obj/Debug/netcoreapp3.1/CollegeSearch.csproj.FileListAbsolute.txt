@@ -1,0 +1,15 @@
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\bin\Debug\netcoreapp3.1\CollegeSearch.exe
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\bin\Debug\netcoreapp3.1\CollegeSearch.deps.json
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\bin\Debug\netcoreapp3.1\CollegeSearch.runtimeconfig.json
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\bin\Debug\netcoreapp3.1\CollegeSearch.runtimeconfig.dev.json
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\bin\Debug\netcoreapp3.1\CollegeSearch.dll
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\bin\Debug\netcoreapp3.1\CollegeSearch.pdb
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\obj\Debug\netcoreapp3.1\CollegeSearch.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\obj\Debug\netcoreapp3.1\CollegeSearch.AddCollegeCityForm.resources
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\obj\Debug\netcoreapp3.1\CollegeSearch.csproj.GenerateResource.cache
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\obj\Debug\netcoreapp3.1\CollegeSearch.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\obj\Debug\netcoreapp3.1\CollegeSearch.AssemblyInfo.cs
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\obj\Debug\netcoreapp3.1\CollegeSearch.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\obj\Debug\netcoreapp3.1\CollegeSearch.dll
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\obj\Debug\netcoreapp3.1\CollegeSearch.pdb
+C:\Users\dalli\source\repos\CollegeSearch\CollegeSearch\obj\Debug\netcoreapp3.1\CollegeSearch.genruntimeconfig.cache
